@@ -1,0 +1,13 @@
+[package]
+name = "principia_cagd"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "A library concerned with the computational and geometric aspects of free-form curves, surfaces and volumes as they are used, for example in CAD/CAM, scientific visualization, or computer animation"
+keywords = ["CAD", "CAGD", "CAM", "Design", "Engineering"]
+readme = "README.md"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
